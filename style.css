@@ -8,11 +8,8 @@ text-align: center;
     width: 100px;
     height: 100px;
     background-color: #F2DD68;
-    margin: 20px;
+    margin: 30px;
     border-radius: 50px;
-    animation:
-
-@keyframes
 }
 .eye1{
      position: absolute;
